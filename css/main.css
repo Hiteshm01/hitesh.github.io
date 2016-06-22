@@ -700,7 +700,9 @@ Change widths as necessary
   .g2 {width:64.667%;}
   .g3 {width:98.0%}
 }
-
+.floatNull {
+  float: none;
+}
 @media only screen and (min-width: 1280px) { 
   /* DESKTOP */
   body {
